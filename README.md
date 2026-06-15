@@ -1,4 +1,4 @@
-[Live Link](https://wmitenjptjtnoct-8080.ws4.app)
+[Live Link](http://127.0.0.1:5500/index.html)
 
 # IT Website Design - Detailed Overview
 
